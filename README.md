@@ -3,7 +3,7 @@ A VBA macro for Outlook that moves the selected email to the same folder as the 
 
 ![smartmove explanation](smartmovescreenshot.jpg)
 
-**1. Macro Security Settings**
+**1. Change Macro Security Settings**
 
 Ensure that macros are enabled in Outlook. Go to **File > Options > Trust Center > Trust Center Settings > Macro Settings**. Choose a setting like "**Notifications for all macros**" or "**Enable all macros**" (the latter is less secure).
 

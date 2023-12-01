@@ -1,6 +1,8 @@
 # smartmove
 A VBA macro for Outlook that moves the selected email to the same folder as the first email in the conversation
 
+![smartmove explanation](smartmovescreenshot.jpg)
+
 **1. Macro Security Settings**
 
   Ensure that macros are enabled in Outlook. Go to _File_ > Options > Trust Center > Trust Center Settings > Macro Settings. Choose a setting like "Notifications for all macros" or "Enable all macros" (the latter is less secure).
